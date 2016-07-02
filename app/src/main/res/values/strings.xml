@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My App Portfolio</string>
+    <string name="title">My</string>
+    <string name="popular_movies">POPULAR MOVIES</string>
+    <string name="build_in_bigger">BUILD IN BIGGER</string>
+    <string name="go_ubiquitous">GO UBIQUITOUS</string>
+    <string name="my_nanodegree_apps">My Nanodegree Apps</string>
 </resources>
